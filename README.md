@@ -10,7 +10,8 @@ To run the code:
 1. clone repo to your PC 
 2. open folder "magic_ball_lesson_22_4" in any IDE that supports Ruby or via terminal/console
 3. run the file "magic_ball.rb" using IDE GUI or typing in terminal/console next command from the current folder:
-$ ruby magic_ball.rb
+
+`ruby magic_ball.rb`
 
 The program will ask for your question.
 Type whatever you want and trust the magic ball!
